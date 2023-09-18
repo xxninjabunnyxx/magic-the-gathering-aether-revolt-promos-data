@@ -1,0 +1,117 @@
+---
+object: card
+id: ad6f6990-369c-4cc2-8c74-bb9831e6cf99
+oracle_id: 97b559fe-b09d-4883-9509-c45ace2d8487
+multiverse_ids: []
+tcgplayer_id: 126838
+cardmarket_id: 295071
+name: Herald of Anguish
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/ad6f6990-369c-4cc2-8c74-bb9831e6cf99
+scryfall_uri: https://scryfall.com/card/paer/64s/herald-of-anguish?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/d/ad6f6990-369c-4cc2-8c74-bb9831e6cf99.jpg?1562271461
+  normal: https://cards.scryfall.io/normal/front/a/d/ad6f6990-369c-4cc2-8c74-bb9831e6cf99.jpg?1562271461
+  large: https://cards.scryfall.io/large/front/a/d/ad6f6990-369c-4cc2-8c74-bb9831e6cf99.jpg?1562271461
+  png: https://cards.scryfall.io/png/front/a/d/ad6f6990-369c-4cc2-8c74-bb9831e6cf99.png?1562271461
+  art_crop: https://cards.scryfall.io/art_crop/front/a/d/ad6f6990-369c-4cc2-8c74-bb9831e6cf99.jpg?1562271461
+  border_crop: https://cards.scryfall.io/border_crop/front/a/d/ad6f6990-369c-4cc2-8c74-bb9831e6cf99.jpg?1562271461
+mana_cost: "{5}{B}{B}"
+cmc: 7.0
+type_line: Creature — Demon
+oracle_text: |-
+  Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+  Flying
+  At the beginning of your end step, each opponent discards a card.
+  {1}{B}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.
+power: '5'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+- Improvise
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2acdb824-7cac-4858-a77e-ac868eed5270
+set: paer
+set_name: Aether Revolt Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2acdb824-7cac-4858-a77e-ac868eed5270
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/paer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ad6f6990-369c-4cc2-8c74-bb9831e6cf99/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97b559fe-b09d-4883-9509-c45ace2d8487&unique=prints
+collector_number: 64s
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: 3a67b65e-516d-4458-905e-2534a4541edc
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 5935
+penny_rank: 5898
+prices:
+  usd: 
+  usd_foil: '5.57'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.45'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Herald+of+Anguish&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Herald+of+Anguish&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Herald+of+Anguish
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126838?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Herald+of+Anguish&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Herald+of+Anguish&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: 1fe64316-562b-4b9e-b0a4-2d7404e3f3ef
+oracle_id: 9597c974-6120-43a7-9ad3-7e4fddc8c9f5
+multiverse_ids: []
+tcgplayer_id: 126822
+cardmarket_id: 295046
+name: Aid from the Cowl
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef
+scryfall_uri: https://scryfall.com/card/paer/105s/aid-from-the-cowl?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/f/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef.jpg?1562270949
+  normal: https://cards.scryfall.io/normal/front/1/f/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef.jpg?1562270949
+  large: https://cards.scryfall.io/large/front/1/f/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef.jpg?1562270949
+  png: https://cards.scryfall.io/png/front/1/f/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef.png?1562270949
+  art_crop: https://cards.scryfall.io/art_crop/front/1/f/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef.jpg?1562270949
+  border_crop: https://cards.scryfall.io/border_crop/front/1/f/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef.jpg?1562270949
+mana_cost: "{3}{G}{G}"
+cmc: 5.0
+type_line: Enchantment
+oracle_text: Revolt — At the beginning of your end step, if a permanent you controlled
+  left the battlefield this turn, reveal the top card of your library. If it's a permanent
+  card, you may put it onto the battlefield. Otherwise, you may put it on the bottom
+  of your library.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Revolt
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2acdb824-7cac-4858-a77e-ac868eed5270
+set: paer
+set_name: Aether Revolt Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2acdb824-7cac-4858-a77e-ac868eed5270
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/paer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1fe64316-562b-4b9e-b0a4-2d7404e3f3ef/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9597c974-6120-43a7-9ad3-7e4fddc8c9f5&unique=prints
+collector_number: 105s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Viktor Titov
+artist_ids:
+- 2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2
+illustration_id: 99385384-a9c2-44b5-a05d-a82bc8b2e6be
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 6728
+penny_rank: 6728
+prices:
+  usd: 
+  usd_foil: '0.82'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aid+from+the+Cowl&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aid+from+the+Cowl&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aid+from+the+Cowl
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126822?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aid+from+the+Cowl&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aid+from+the+Cowl&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

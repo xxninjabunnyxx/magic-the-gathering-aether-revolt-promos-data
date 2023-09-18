@@ -1,0 +1,111 @@
+---
+object: card
+id: 317ffc8a-4b6e-4ff7-b049-7494cb41e448
+oracle_id: '08afc0d7-192f-4ab6-b6a0-c4265cf5e225'
+multiverse_ids: []
+tcgplayer_id: 125843
+cardmarket_id: 294552
+name: Trophy Mage
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/317ffc8a-4b6e-4ff7-b049-7494cb41e448
+scryfall_uri: https://scryfall.com/card/paer/48/trophy-mage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/317ffc8a-4b6e-4ff7-b049-7494cb41e448.jpg?1562270968
+  normal: https://cards.scryfall.io/normal/front/3/1/317ffc8a-4b6e-4ff7-b049-7494cb41e448.jpg?1562270968
+  large: https://cards.scryfall.io/large/front/3/1/317ffc8a-4b6e-4ff7-b049-7494cb41e448.jpg?1562270968
+  png: https://cards.scryfall.io/png/front/3/1/317ffc8a-4b6e-4ff7-b049-7494cb41e448.png?1562270968
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/317ffc8a-4b6e-4ff7-b049-7494cb41e448.jpg?1562270968
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/317ffc8a-4b6e-4ff7-b049-7494cb41e448.jpg?1562270968
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Human Wizard
+oracle_text: When Trophy Mage enters the battlefield, you may search your library
+  for an artifact card with mana value 3, reveal it, put it into your hand, then shuffle.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2acdb824-7cac-4858-a77e-ac868eed5270
+set: paer
+set_name: Aether Revolt Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2acdb824-7cac-4858-a77e-ac868eed5270
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/paer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/317ffc8a-4b6e-4ff7-b049-7494cb41e448/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08afc0d7-192f-4ab6-b6a0-c4265cf5e225&unique=prints
+collector_number: '48'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anna Steinbauer
+artist_ids:
+- 3516496c-c279-4b56-8239-720683d03ae0
+illustration_id: 78b6e582-d723-4903-adbd-cf40dbb4d561
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- gameday
+edhrec_rank: 1418
+penny_rank: 1309
+prices:
+  usd: '0.69'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.95'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Trophy+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Trophy+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Trophy+Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/125843?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Trophy+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Trophy+Mage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

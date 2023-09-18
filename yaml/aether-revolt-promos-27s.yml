@@ -1,0 +1,118 @@
+---
+object: card
+id: e12c01d2-53c6-434e-af76-abb6f90cb9d5
+oracle_id: 53b2c8f2-db9a-4ab0-a4e8-17385b2fa3bd
+multiverse_ids: []
+tcgplayer_id: 126820
+cardmarket_id: 295028
+name: Aethertide Whale
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/e12c01d2-53c6-434e-af76-abb6f90cb9d5
+scryfall_uri: https://scryfall.com/card/paer/27s/aethertide-whale?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/1/e12c01d2-53c6-434e-af76-abb6f90cb9d5.jpg?1562271501
+  normal: https://cards.scryfall.io/normal/front/e/1/e12c01d2-53c6-434e-af76-abb6f90cb9d5.jpg?1562271501
+  large: https://cards.scryfall.io/large/front/e/1/e12c01d2-53c6-434e-af76-abb6f90cb9d5.jpg?1562271501
+  png: https://cards.scryfall.io/png/front/e/1/e12c01d2-53c6-434e-af76-abb6f90cb9d5.png?1562271501
+  art_crop: https://cards.scryfall.io/art_crop/front/e/1/e12c01d2-53c6-434e-af76-abb6f90cb9d5.jpg?1562271501
+  border_crop: https://cards.scryfall.io/border_crop/front/e/1/e12c01d2-53c6-434e-af76-abb6f90cb9d5.jpg?1562271501
+mana_cost: "{4}{U}{U}"
+cmc: 6.0
+type_line: Creature — Whale
+oracle_text: |-
+  Flying
+  When Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} (six energy counters).
+  Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand.
+power: '6'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2acdb824-7cac-4858-a77e-ac868eed5270
+set: paer
+set_name: Aether Revolt Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2acdb824-7cac-4858-a77e-ac868eed5270
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/paer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e12c01d2-53c6-434e-af76-abb6f90cb9d5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53b2c8f2-db9a-4ab0-a4e8-17385b2fa3bd&unique=prints
+collector_number: 27s
+digital: false
+rarity: rare
+flavor_text: |-
+  "To survive up here, I've learned when to use my harpoon and when to just enjoy the view."
+  —Kadhu, skywhaler
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 34cf4745-b5fe-4487-bb60-2d5e2ec702d8
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 13056
+penny_rank: 10046
+prices:
+  usd: 
+  usd_foil: '0.52'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.75'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aethertide+Whale&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aethertide+Whale&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aethertide+Whale
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126820?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aethertide+Whale&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Aethertide+Whale&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

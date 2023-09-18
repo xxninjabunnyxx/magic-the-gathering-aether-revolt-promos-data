@@ -1,0 +1,114 @@
+---
+object: card
+id: a638d77b-cc82-4a2f-ba75-2391b3c834c7
+oracle_id: 5f2a3797-28aa-4c7a-ba2b-fd243a1747fd
+multiverse_ids: []
+tcgplayer_id: 126845
+cardmarket_id: 295057
+name: Lifecrafter's Bestiary
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/a638d77b-cc82-4a2f-ba75-2391b3c834c7
+scryfall_uri: https://scryfall.com/card/paer/162s/lifecrafters-bestiary?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/6/a638d77b-cc82-4a2f-ba75-2391b3c834c7.jpg?1562271451
+  normal: https://cards.scryfall.io/normal/front/a/6/a638d77b-cc82-4a2f-ba75-2391b3c834c7.jpg?1562271451
+  large: https://cards.scryfall.io/large/front/a/6/a638d77b-cc82-4a2f-ba75-2391b3c834c7.jpg?1562271451
+  png: https://cards.scryfall.io/png/front/a/6/a638d77b-cc82-4a2f-ba75-2391b3c834c7.png?1562271451
+  art_crop: https://cards.scryfall.io/art_crop/front/a/6/a638d77b-cc82-4a2f-ba75-2391b3c834c7.jpg?1562271451
+  border_crop: https://cards.scryfall.io/border_crop/front/a/6/a638d77b-cc82-4a2f-ba75-2391b3c834c7.jpg?1562271451
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: |-
+  At the beginning of your upkeep, scry 1.
+  Whenever you cast a creature spell, you may pay {G}. If you do, draw a card.
+colors: []
+color_identity:
+- G
+keywords:
+- Scry
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2acdb824-7cac-4858-a77e-ac868eed5270
+set: paer
+set_name: Aether Revolt Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2acdb824-7cac-4858-a77e-ac868eed5270
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/paer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a638d77b-cc82-4a2f-ba75-2391b3c834c7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f2a3797-28aa-4c7a-ba2b-fd243a1747fd&unique=prints
+collector_number: 162s
+digital: false
+rarity: rare
+flavor_text: |-
+  "Inspiration is found by looking outward."
+  —Oviya Pashiri, sage lifecrafter
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Izzy
+artist_ids:
+- 2c3d2473-ff5d-4309-8194-e0b2def2ab65
+illustration_id: fa37d232-f2e4-46a3-a794-f1f2eff087bd
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 591
+penny_rank: 9203
+prices:
+  usd: 
+  usd_foil: '3.33'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lifecrafter%27s+Bestiary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lifecrafter%27s+Bestiary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lifecrafter%27s+Bestiary
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126845?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lifecrafter%27s+Bestiary&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lifecrafter%27s+Bestiary&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

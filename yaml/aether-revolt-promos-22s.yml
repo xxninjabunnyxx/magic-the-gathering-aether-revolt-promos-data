@@ -1,0 +1,117 @@
+---
+object: card
+id: eedfdf12-938f-455c-8e73-ed1425fad3fb
+oracle_id: cf747d6e-05ae-484d-9e72-1d0fb71fd4ff
+multiverse_ids: []
+tcgplayer_id: 126863
+cardmarket_id: 295025
+name: Solemn Recruit
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/eedfdf12-938f-455c-8e73-ed1425fad3fb
+scryfall_uri: https://scryfall.com/card/paer/22s/solemn-recruit?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/e/eedfdf12-938f-455c-8e73-ed1425fad3fb.jpg?1562271524
+  normal: https://cards.scryfall.io/normal/front/e/e/eedfdf12-938f-455c-8e73-ed1425fad3fb.jpg?1562271524
+  large: https://cards.scryfall.io/large/front/e/e/eedfdf12-938f-455c-8e73-ed1425fad3fb.jpg?1562271524
+  png: https://cards.scryfall.io/png/front/e/e/eedfdf12-938f-455c-8e73-ed1425fad3fb.png?1562271524
+  art_crop: https://cards.scryfall.io/art_crop/front/e/e/eedfdf12-938f-455c-8e73-ed1425fad3fb.jpg?1562271524
+  border_crop: https://cards.scryfall.io/border_crop/front/e/e/eedfdf12-938f-455c-8e73-ed1425fad3fb.jpg?1562271524
+mana_cost: "{1}{W}{W}"
+cmc: 3.0
+type_line: Creature — Dwarf Warrior
+oracle_text: |-
+  Double strike
+  Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on Solemn Recruit.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Revolt
+- Double strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2acdb824-7cac-4858-a77e-ac868eed5270
+set: paer
+set_name: Aether Revolt Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2acdb824-7cac-4858-a77e-ac868eed5270
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/paer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/eedfdf12-938f-455c-8e73-ed1425fad3fb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf747d6e-05ae-484d-9e72-1d0fb71fd4ff&unique=prints
+collector_number: 22s
+digital: false
+rarity: rare
+flavor_text: '"I can no longer sit in my workshop and ignore the events outside. My
+  hammers strike for the people of Ghirapur."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 8c5fa2d2-3493-4d3d-bd4a-a0a9bd3a5e17
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 8237
+penny_rank: 4968
+prices:
+  usd: 
+  usd_foil: '0.25'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.38'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Solemn+Recruit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Solemn+Recruit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Solemn+Recruit
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126863?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Solemn+Recruit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Solemn+Recruit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
